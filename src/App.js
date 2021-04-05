@@ -1,5 +1,4 @@
 import NavBar from "./components/navbar";
-import "./App.css";
 import Counters from "./components/counters";
 import React, { Component } from "react";
 
